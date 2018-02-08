@@ -19,5 +19,7 @@ var uppercase = "HELLO"
 var love = "I love you, Grandma."
 
 function sayHiToGrandma(string) {
-  if(lowercase.toLowerCase === lowercase)
+  if(lowercase.toLowerCase === lowercase) {
+    return `
+  }
 }
