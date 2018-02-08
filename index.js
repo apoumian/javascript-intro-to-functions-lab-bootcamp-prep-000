@@ -17,3 +17,5 @@ function logWhisper(string) {
 var lowercase = 'hello'
 var uppercase = "HELLO"
 var love = "I love you, Grandma."
+
+function sayHiToGrandma(string) {
